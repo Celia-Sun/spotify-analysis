@@ -18,12 +18,35 @@ Y posteriormente se crearon nuevas variables para el análisis. Por ejemplo, se 
 # Análisis
 Primero se hizo un análisis general de los años 2017 al 2025 en el que se averiguaron:
 1. TOP 5 artistas más reproducidos
+
+![image](https://github.com/user-attachments/assets/6768b33e-5d69-46e1-94d1-80ab427b6ace)
+
 2. TOP 5 canciones más reproducidas
+
+![image](https://github.com/user-attachments/assets/3d1af4d4-bb01-4963-b42b-57414a06faf5)
+
 3. TOP 5 álbumes más reproducidos
+
+![image](https://github.com/user-attachments/assets/c625582f-ae44-42c1-b8da-e1d50e04e411)
+
 4. TOP 5 canciones más saltadas
+
+![image](https://github.com/user-attachments/assets/2c09331d-9fbb-4b46-8840-a3228f4b84c1)
 
 También se hicieron gráficos que mostraban los patrones de escucha en el tiempo:
 1. Horas de escucha más activas
+
+![image](https://github.com/user-attachments/assets/5b0146a2-a6f8-4909-96a5-daaae4775297)
+
 2. Días de escucha más activos
+
+![image](https://github.com/user-attachments/assets/dbed92b5-d2d6-4fed-9083-2bf8625985d8)
+
 3. Comparación de reproducciones por año
+
+![image](https://github.com/user-attachments/assets/e22f1efa-de53-461c-a9c8-b30388c35117)
+
 4. Distribución de escucha por mes
+
+![image](https://github.com/user-attachments/assets/05543fce-6b21-4b90-ba6f-471d518e4f93)
+
